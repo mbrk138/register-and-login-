@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace Domain.Models
 {
-    public class User :identityuser
+    public class User :IdentityUser
     {
     }
 }
